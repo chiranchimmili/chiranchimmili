@@ -1,6 +1,7 @@
 ### Hello there 🧔
 
 ![][https://media.giphy.com/media/xTiIzJSKB4l7xTouE8/giphy.gif]
+<img src="https://media.giphy.com/media/xTiIzJSKB4l7xTouE8/giphy.gif" width="40" height="40" />
 
 <!--
 **chiranchimmili/chiranchimmili** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
